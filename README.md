@@ -1,16 +1,17 @@
-### Hi there 👋
+## I am a beginner programmer
 
-<!--
-**SunLLIine/SunLLIine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages and Tools
+![Python3](https://img.shields.io/badge/-Python-3f3f3f?style=for-the-badge&logo=Python&logoColor=76c08d)
+![HTML5](https://img.shields.io/badge/-HTML-3f3f3f?style=for-the-badge&logo=HTML5&logoColor=#E34F26)
+![SQL](https://img.shields.io/badge/-SQLite-3f3f3f?style=for-the-badge&logo=SQLite&logoColor=#003B57)
+![Flask](https://img.shields.io/badge/-Flask-3f3f3f?style=for-the-badge&logo=Flask&logoColor=#000000)
 
-Here are some ideas to get you started:
+### My github status
+[![](https://github-readme-stats.vercel.app/api?username=SunLLIine&show_icons=true&bg_color=3f3f3f&text_color=ffffff&title_color=76c08d&icon_color=76c08d)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![](https://github-profile-trophy.vercel.app/?username=SunLLIine&theme=nord&no-frame=true&no-bg=true)
+
+
+### Follow Me
+[![Telegram](https://img.shields.io/badge/-Telegram-3f3f3f?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/SunLLline)
